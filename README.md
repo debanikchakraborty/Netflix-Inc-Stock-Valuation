@@ -1,1 +1,3 @@
 # Netflix-Inc-Stock-Valuation
+It contains the pdf of the stock valuation presentation of Netflix Inc. using DCF (Perpetuity and EBIDTA) and comparable companies EV/EBIDTA multiples, revealing an average 30% undervaluation of the stock price in 2023. The presentaion also contains deep financial analysis of Netflix Inc.'s original contents and shows that these boosted subscriber growth by 20%, revenue by 9%, and reduced cost of revenue 
+by 3% on average from 2012(the year original content was introduced) to 2017. Monte carlo simulation was done as technical analysis as well. The excel files, py files are also available here.
